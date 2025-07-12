@@ -11,11 +11,11 @@ Check out the live site here:
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-06 133807" src="https://github.com/user-attachments/assets/b97b713e-510f-4f2e-bbc1-e8a192787a37" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-06 133825" src="https://github.com/user-attachments/assets/930c7bd7-fac4-4bfc-ab00-46ccbf2658d7" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-12 214213" src="https://github.com/user-attachments/assets/ffe575ae-5389-49ab-83b1-660fb8cf6ddb" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-06 133840" src="https://github.com/user-attachments/assets/4a5dcb78-d236-430d-a8ad-b1c49b8cda1b" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-12 214227" src="https://github.com/user-attachments/assets/011b9f11-40e4-4a52-9ba8-26c48e0457f4" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-06 133855" src="https://github.com/user-attachments/assets/69cf66c5-490f-4cf7-ab1c-f87288fc35e3" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-12 214237" src="https://github.com/user-attachments/assets/96d3c2fb-bdd9-454c-ab3a-547470b1a6ab" />
 
 
 ## 🛠️ Tech Stack
